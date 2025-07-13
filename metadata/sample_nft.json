@@ -1,0 +1,15 @@
+{
+  "name": "Genesis Hat",
+  "description": "Görev ile kazanılan özel bir NFT şapkadır.",
+  "image": "ipfs://QmExampleCID/genesis-hat.png",
+  "attributes": [
+    {
+      "trait_type": "Tip",
+      "value": "Şapka"
+    },
+    {
+      "trait_type": "Nadirlik",
+      "value": "Efsanevi"
+    }
+  ]
+}
