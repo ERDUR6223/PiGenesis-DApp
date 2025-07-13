@@ -1,2 +1,3 @@
 # PiGenesis-DApp
-GCV destekli NFT görev &amp; avatar tabanlı Pi Network sosyal metaverse uygulaması.
+
+GCV destekli NFT görev & avatar tabanlı Pi Network sosyal metaverse uygulaması.
