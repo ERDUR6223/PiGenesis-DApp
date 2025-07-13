@@ -1,0 +1,19 @@
+{
+  "name": "PiGenesis Ayakkabı",
+  "description": "Görev tamamlayarak kazanılan özel bir ayakkabı NFT'si.",
+  "image": "ipfs://QmExampleCID/shoes-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Tip",
+      "value": "Ayakkabı"
+    },
+    {
+      "trait_type": "Tarz",
+      "value": "Spor"
+    },
+    {
+      "trait_type": "Nadirlik",
+      "value": "Destansı"
+    }
+  ]
+}
