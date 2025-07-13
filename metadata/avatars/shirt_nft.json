@@ -1,0 +1,19 @@
+{
+  "name": "PiGenesis Tişört",
+  "description": "Görev ödülü olarak verilen özel bir tişört NFT'si.",
+  "image": "ipfs://QmExampleCID/shirt-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Tip",
+      "value": "Tişört"
+    },
+    {
+      "trait_type": "Renk",
+      "value": "Mor"
+    },
+    {
+      "trait_type": "Nadirlik",
+      "value": "Nadir"
+    }
+  ]
+}
