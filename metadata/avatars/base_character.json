@@ -1,0 +1,15 @@
+{
+  "name": "PiGenesis Avatar",
+  "description": "Kullanıcının özelleştirilebilir temel karakteri.",
+  "image": "ipfs://QmExampleCID/avatar-base.png",
+  "attributes": [
+    {
+      "trait_type": "Karakter Tipi",
+      "value": "İnsan"
+    },
+    {
+      "trait_type": "Cinsiyet",
+      "value": "Seçilebilir"
+    }
+  ]
+}
