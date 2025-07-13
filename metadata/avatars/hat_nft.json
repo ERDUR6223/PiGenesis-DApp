@@ -1,0 +1,19 @@
+{
+  "name": "PiGenesis Şapka",
+  "description": "Görev tamamlayarak kazanılmış özel bir şapka NFT'si.",
+  "image": "ipfs://QmExampleCID/hat-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Tip",
+      "value": "Şapka"
+    },
+    {
+      "trait_type": "Renk",
+      "value": "Altın"
+    },
+    {
+      "trait_type": "Nadirlik",
+      "value": "Efsanevi"
+    }
+  ]
+}
